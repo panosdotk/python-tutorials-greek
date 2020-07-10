@@ -14,7 +14,7 @@
 Δουλεύοντας με Json αρχεία
 ==========================
 
-*:ref:`jsonindex`
+* :ref:`jsonindex`
 
 Indices and tables
 ==================
