@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 Συλλογή Python Tutorials's στα Ελληνικά!
-==================================================
+========================================
 
 .. toctree::
    :maxdepth: 2
