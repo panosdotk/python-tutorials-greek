@@ -20,6 +20,7 @@
 project = 'Python Greek Tutorials'
 copyright = '2020, Panos Karampaglis'
 author = 'Panos Karampaglis'
+master_doc = 'index'
 
 
 # -- General configuration ---------------------------------------------------
